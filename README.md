@@ -1,1 +1,1 @@
-# vimrc
+# vimrc configuration
